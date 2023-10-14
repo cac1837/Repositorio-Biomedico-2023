@@ -2,8 +2,8 @@ function excel_csv_converter_gui
     % Crear una interfaz gráfica simple
     f = figure('Name', 'Conversión Excel/CSV', 'NumberTitle', 'Off', 'Position', [100, 100, 600, 400]);
     
-    % Cambiar el color de fondo de la ventana (por ejemplo, gris claro)
-    f.Color = '#108C44';  % RGB para gris claro
+    % Cambiar el color de fondo de la ventana 
+    f.Color = '#108C44';  % RGB para verde
     
      % Cargar el logotipo JPEG como una matriz
     logoImage = imread('UVG.jpg'); 
