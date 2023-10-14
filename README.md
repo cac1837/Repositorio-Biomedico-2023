@@ -11,7 +11,6 @@ En la siguiente imagen se muestra una vista previa del repositorio
 
 ![repositorio](https://github.com/cac1837/Repositorio-Biomedico-2023/assets/68131380/a373bdbd-9e1c-4ae0-93a4-5c0be8af418a)
 
-Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
 Ha sido desarrollado por Katherine Caceros estudiante de la Universidad del Valle de Guatemala.
 
 # Documentos
