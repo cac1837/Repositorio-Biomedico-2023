@@ -5,8 +5,8 @@ incluyendo datos de epilepsia, datos del estudio del sueño y datos de bioemdico
 Ha sido desarrollado por Katherine Caceros estudiante de la Universidad del Valle de Guatemala.
 
 # Documentos
-[Contribution guidelines for this project](Documentos/README.md)
-En esta sección, se encuentran los manuales que guían a los usuarios de la mejor manera en la 
+
+En esta [sección](Documentos/README.md), se encuentran los manuales que guían a los usuarios de la mejor manera en la 
 navegación dentro del repositorio.
 
 # Formato
