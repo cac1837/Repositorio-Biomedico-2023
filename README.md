@@ -1,9 +1,9 @@
 # Repositorio-Biomedico-2023
 
+![repositorio](https://github.com/cac1837/Repositorio-Biomedico-2023/assets/68131380/a373bdbd-9e1c-4ae0-93a4-5c0be8af418a)
 Este repositorio contiene todo lo relacionado con la fabricación de datos y señales biomédicas,
 incluyendo datos de epilepsia, datos del estudio del sueño y datos de bioemdicos.
 Ha sido desarrollado por Katherine Caceros estudiante de la Universidad del Valle de Guatemala.
-![repositorio](https://github.com/cac1837/Repositorio-Biomedico-2023/assets/68131380/a373bdbd-9e1c-4ae0-93a4-5c0be8af418a)
 
 # Documentos
 
