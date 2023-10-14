@@ -23,6 +23,7 @@ navegación dentro del repositorio.
 En esta [sección](Formato/), se encuentran los archivos de MATLAB que se utilizaron para dar formato a las 
 señales. También encontrarán la plantilla de los docuementos que guardan los datos obtenidos.
 
+
 # Imagenes
 
 En esta [sección](Imagenes/), se encuentran imágenes utilizadas dentro del repositorio. 
