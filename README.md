@@ -6,7 +6,7 @@ Ha sido desarrollado por Katherine Caceros estudiante de la Universidad del Vall
 
 # Documentos
 
-En esta [sección](Documentos/README.md), se encuentran los manuales que guían a los usuarios de la mejor manera en la 
+En esta [sección](Documentos/), se encuentran los manuales que guían a los usuarios de la mejor manera en la 
 navegación dentro del repositorio.
 
 # Formato
